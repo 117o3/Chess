@@ -6,7 +6,7 @@ Using object-oriented design ideas to design and implement the Chess game.
 
 ### Overview
 
-For this project, we implemented a chess game using object-oriented design principles. The game allows two players to take turns making moves on a chessboard represented in text format. Moves are entered via standard chess notation.
+For this project, a chess game is implemented using object-oriented design principles. The game allows two players to take turns making moves on a chessboard represented in text format. Moves are entered via standard chess notation.
 
 ### Features
 
